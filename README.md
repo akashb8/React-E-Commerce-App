@@ -1,6 +1,6 @@
-# SkyCart 🛒
+# Small Basket 🛒
 
-SkyCart is a modern, fast, and responsive grocery delivery web application simulation built with **React 19**, **TypeScript**, and **Tailwind CSS**. It simulates a seamless 15-minute drone delivery service for fresh, locally sourced groceries.
+Small Basket is a modern, fast, and responsive grocery delivery web application simulation built with **React 19**, **TypeScript**, and **Tailwind CSS**. It simulates a seamless 15-minute drone delivery service for fresh, locally sourced groceries.
 
 ## 🚀 Features
 
