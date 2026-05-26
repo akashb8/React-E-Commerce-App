@@ -18,7 +18,7 @@ Small Basket is a modern, fast, and responsive grocery delivery web application 
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [React 19](https://react.dev/)
+- **Library:** [React 19](https://react.dev/)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
 - **Bundler:** [Vite](https://vitejs.dev/)
 - **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
@@ -70,7 +70,3 @@ Small Basket is a modern, fast, and responsive grocery delivery web application 
 - Try out the search bar on the homepage to find items instantly.
 - Test the coupon system in the cart by applying the codes `SKY35` (35% off) or `FRESH5` ($5 off flat).
 - Reach a $35 discounted subtotal to unlock free delivery!
-
----
-
-*This project was created as an assessment project.*
