@@ -58,6 +58,26 @@ Small Basket is a modern, fast, and responsive grocery delivery web application 
 
 5. Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
 
+## 📁 Folder Structure
+
+```text
+myapp/
+├── public/                # Static assets like favicon
+├── src/
+│   ├── api/               # API fetching logic/services
+│   ├── assets/            # Local images and icons
+│   ├── components/        # UI components (home, cart, discounts)
+│   ├── layout/            # Layout components (header, footer, root layout)
+│   ├── routing/           # Application routing setup (React Router)
+│   ├── store/             # Global state management (Zustand)
+│   ├── types/             # TypeScript type definitions
+│   ├── App.tsx            # Main application component
+│   ├── main.tsx           # Application entry point
+│   └── index.css          # Global Tailwind CSS and styles
+├── package.json           # Project dependencies and scripts
+└── vite.config.ts         # Vite bundler configuration
+```
+
 ## 📜 Available Scripts
 
 - `npm run dev`: Starts the development server with Hot Module Replacement (HMR).
